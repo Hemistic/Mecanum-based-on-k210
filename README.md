@@ -12,7 +12,7 @@ An open NCUT laboratory project
 
 ## 核心部件
 
-1. k210![image-20200902185546935](C:\Users\41448\AppData\Roaming\Typora\typora-user-images\image-20200902185546935.png)
+1. k210![image-20200902185546935](https://github.com/Hemistic/Mecanum-based-on-k210/blob/master/image/image-20200902185546935.png)
 
 一款比较有"想象力"的MCU，自主研发，RISC-V架构，主频400MHz，巅峰1Tops的算力。
 
