@@ -24,6 +24,6 @@ An open NCUT laboratory project
 
 ![img](https://pic1.zhimg.com/80/693092f7ca548af79d2eff49aa04be4c_720w.jpg)
 
-这是关于[麦克纳姆轮小车](https://zhuanlan.zhihu.com/p/20282234 "Title") 相关文档的链接。
+这是关于[麦克纳姆轮小车](https://zhuanlan.zhihu.com/p/20282234 "Title") 文档的链接。
 
 麦克纳姆轮是一种非常有趣的装置，可以在不调转车头的情况下进行全向的运动，它有非常鲜明的缺点，它价格高，不耐磨损，各个方向的力矩都有损耗，但是在智能小车领域，它依旧拥有很高的地位，我们在制造的过程中，尽可能规避一些缺陷，把优点充分的发挥出来。
