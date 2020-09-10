@@ -20,9 +20,9 @@ An open NCUT laboratory project
 
 2. 麦克纳姆轮
 
-![【学渣的自我修养】麦克纳姆轮浅谈](https://pic4.zhimg.com/7e655e2421da64a088a64585b2761cb5_1440w.jpg?source=172ae18b)
+![【学渣的自我修养】麦克纳姆轮浅谈](https://github.com/Hemistic/Mecanum-based-on-k210/blob/master/image/7e655e2421da64a088a64585b2761cb5_1440w.jpg)
 
-![img](https://pic1.zhimg.com/80/693092f7ca548af79d2eff49aa04be4c_720w.jpg)
+![img](https://github.com/Hemistic/Mecanum-based-on-k210/blob/master/image/693092f7ca548af79d2eff49aa04be4c_720w.jpg)
 
 这是关于[麦克纳姆轮小车](https://zhuanlan.zhihu.com/p/20282234 "Title") 文档的链接。
 
